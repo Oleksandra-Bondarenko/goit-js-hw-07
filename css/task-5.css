@@ -1,9 +1,7 @@
 .widget {
   background-color: inherit;
-  border-radius: 8px;
-  padding: 100px 88px;
+  padding: 100px 50px;
   width: 345px;
-  height: 280px;
 
   display: flex;
   flex-direction: column;
